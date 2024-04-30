@@ -1,9 +1,9 @@
 <h1>Shoulder Shrug Detection</h1>
 
- ### [YouTube Demonstration](<insert link here>)
+ ### [YouTube Demonstration](<https://youtu.be/bDls7UwuAQE>)
 
 <h2>Description</h2>
-This project aims to detect shoulder shrugging movements in a video captured using Python and OpenCV. It employs face detection techniques to locate the head and then detects shoulder positions relative to the head to determine shoulder shrugging events.
+This project aims to detect shoulder shrugging movements in a video captured using Python and OpenCV. It employs face detection techniques to locate the head and then detects shoulder positions relative to the head to determine shoulder shrugging events. It also adds labels based on the distance between head and shoulders for"regular" and "extreme shrugging".
 
 Files used:
 1. shoulder_shrug_detection.py - Python script containing the shoulder shrug detection system.
